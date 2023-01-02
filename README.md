@@ -1,6 +1,6 @@
 # Cassini Hackathon by N3xtcoder Frankfurt
 
-## Team "STATelite" - Neelesh (@neelblabla), Jerome (@sonic171717) and Nils (@nilsmart96)
+## Team "StatElite" - Neelesh (@neelblabla), Jerome (@sonic171717) and Nils (@nilsmart96)
 
 We are here to tell you the real impact companies are having over the environment. Claims of 
 decreasing pollution or having net zero environmental impact can be confirmed or falsified using
