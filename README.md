@@ -20,4 +20,4 @@ Within Germany, there are certain entities (power and chemical plants) whose NO2
 The scope of the approach can be expanded by including polluters of any size around the globe in the near future. On top of that, the monitored varibles can include further satellite data - other effluents, land waste, water contamination, ground water levels etc.)
 
 
-- Team "StatElite" consisting of Neelesh, Jerome and Nils
+-- Team "StatElite" consisting of Neelesh, Jerome and Nils
