@@ -15,7 +15,7 @@ The data is aggregated by a novel scalable framework of satellite data collectio
 
 ### Findings:
 
-Within Germany, there are certain entities (power and chemical plants) whose NO2 footprints over the last 4 years (July 2018-June 2022) let alone match those of entire cities like Berlin, Munich and Hamburg.
+Within Germany, there are certain entities (power and chemical plants) whose NO2 footprints over the last 4 years (July 2018-June 2022) let alone match those of entire cities like Berlin, Munich and Hamburg. View "NO2 emissions_Germany.png" in this repository.
 
 The scope of the approach can be expanded by including polluters of any size around the globe in the near future. On top of that, the monitored varibles can include further satellite data - other effluents, land waste, water contamination, ground water levels etc.)
 
