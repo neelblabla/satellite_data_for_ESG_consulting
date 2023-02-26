@@ -14,10 +14,11 @@ The first of the many components that are monitored include NO2 Values at the pr
 The data is aggregated by a novel scalable framework of satellite data collection and processing. The Sentinel 5P program from Copernicus serves 
 as the data source for NO2.
 
-Findings:
+### Findings:
 
-There are certain entities (power and chemical plants) whose NO2 footprints over the last 4 years (July 2018-June 2022) let alone match those of entire cities like Berlin, Munich and Hamburg.
-
-The proof-of-concept is presented for 8 industrial geographical coordinates that are characterised by heavy pollution. 
+Within Germany, there are certain entities (power and chemical plants) whose NO2 footprints over the last 4 years (July 2018-June 2022) let alone match those of entire cities like Berlin, Munich and Hamburg.
 
 The scope of the approach can be expanded by including polluters of any size around the globe in the near future. On top of that, the monitored varibles can include further satellite data - other effluents, land waste, water contamination, ground water levels etc.)
+
+
+Team "StatElite" - consisting of Neelesh (@neelblabla), Jerome (@sonic171717) and Nils (@nilsmart96)
