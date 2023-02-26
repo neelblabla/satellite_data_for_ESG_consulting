@@ -1,4 +1,4 @@
-# My project submition to Cassini Hackathon by N3xtcoder Frankfurt (Nov 2022)
+# Project submission to Cassini Hackathon by N3xtcoder Frankfurt (Nov 2022)
 
 
 ESG is a topic of discussion today more than ever. Investors, corporates and governments need insights to make ESG based investment decisions, to mitigate ESG based risk and to design/amend ESG based policy. But, here is the challenge. More often than not, it is hard to find trustworthy information resources that back any claims made in the direction of ESG. And in rare occasions, when we come across any such resource, it turns out that there is a huge bias, heavy false conditioning and hardly any proof-checking available.
